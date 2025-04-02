@@ -1,0 +1,54 @@
+{
+  "title": "Realtime Innovations",
+  "employeesList": "Employee List",
+  "noEmployeeRecord": "No employee records found",
+  "addEmployeeDetails": "Add Employee Details",
+  "editEmployeeDetails": "Edit Employee Details",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "undo": "Undo",
+  "employeeDeleted": "Employee data has been deleted",
+  "save": "Save",
+  "currentEmployees": "Current employees",
+  "previousEmployees": "Previous employees",
+  "swipeLeft": "Swipe left to delete or edit",
+  "confirmDelete": "Confirm Delete",
+  "employeeName": "Employee name",
+  "selectRole": "Select role",
+  "today": "Today",
+  "noDate": "No date",
+  "required": "Required field",
+  "invalidFromDate": "Should be less than to date",
+  "invalidToDate": "Should be greater than from date",
+  "nextMonday": "Next Monday",
+  "nextTuesday": "Next Tuesday",
+  "afterOneWeek": "After 1 week",
+  "noDateSelected": "Select some date",
+  "fromDate": "From {date}",
+  "@fromDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "fromAndToDate": "{fromDate} - {toDate}",
+  "@fromAndToDate": {
+    "placeholders": {
+      "fromDate": {
+        "type": "String"
+      },
+      "toDate": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteEmployeeConfirmation": "Are you sure you want to delete {name}",
+  "@deleteEmployeeConfirmation": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  }
+}
